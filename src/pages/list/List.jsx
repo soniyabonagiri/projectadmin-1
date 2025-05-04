@@ -50,7 +50,7 @@ const List = ({urlprop}) => {
 
   return (
     <div className='list add flex-col'>
-      <p>All Foods list</p>
+      <p>All movie list</p>
       <div className="list-table">
         <div className="list-table-format title">
           <b>Image</b>
@@ -84,3 +84,4 @@ const List = ({urlprop}) => {
 }
 
 export default List
+
