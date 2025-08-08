@@ -5,7 +5,7 @@ import { toast, ToastContainer } from 'react-toastify';
 
 const List = ({urlprop}) => {
 
-  const url = 'http://localhost:4000'
+  const url = 'https://backendproject-1-2.onrender.com'
 
   const [list, setList] = useState([])
 
